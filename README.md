@@ -30,6 +30,6 @@ A modern, responsive personal portfolio website showcasing my professional exper
 ## Contact
 
 - Email: Saronmelesse2018@gmail.com
-- LinkedIn: https://www.linkedin.com/in/saron -melesse
+- LinkedIn: https://www.linkedin.com/in/saron-melesse/
 - GitHub: https://github.com/Saron517 
 
